@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.6a20608a.css",
+    "main.js": "/react/static/js/main.8aae871f.js",
+    "static/js/453.2a0906f0.chunk.js": "/react/static/js/453.2a0906f0.chunk.js",
+    "static/media/c3.png": "/react/static/media/c3.9bc24e09ba273b550fef.png",
+    "static/media/c2.png": "/react/static/media/c2.ba65f4cfab7127879526.png",
+    "static/media/shibuya.jpg": "/react/static/media/shibuya.ce34ee742ce675b53291.jpg",
+    "static/media/nezu.png": "/react/static/media/nezu.b2adce92cd6552424c50.png",
+    "static/media/meiji.jpg": "/react/static/media/meiji.23ac58abcddc734f5c98.jpg",
+    "static/media/shin.png": "/react/static/media/shin.529d2e5e5890e2d07a32.png",
+    "static/media/homura.png": "/react/static/media/homura.45bd1a0d9f6c4a60bc1b.png",
+    "static/media/taka.png": "/react/static/media/taka.3ba676fd8194ef540771.png",
+    "static/media/funa.png": "/react/static/media/funa.3b0c46665bf9d10eaa72.png",
+    "static/media/c1.jpg": "/react/static/media/c1.d532fa82abcf2f2ee5df.jpg",
+    "index.html": "/react/index.html",
+    "main.6a20608a.css.map": "/react/static/css/main.6a20608a.css.map",
+    "main.8aae871f.js.map": "/react/static/js/main.8aae871f.js.map",
+    "453.2a0906f0.chunk.js.map": "/react/static/js/453.2a0906f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a20608a.css",
+    "static/js/main.8aae871f.js"
+  ]
+}
