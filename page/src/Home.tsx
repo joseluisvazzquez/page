@@ -16,6 +16,8 @@ function Home(){
                 skyscrapers coexist with peaceful Shinto shrines and lush gardens.
             </p>
     
+
+    
             <Carousel className=" my-4" fade>
                 <Carousel.Item interval={1500}>
                     <img src={c1} className="d-block w-100 rounded" />
