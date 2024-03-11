@@ -4,7 +4,7 @@ import Hotspots from "./Hotspots";
 import Cuisine from "./Cuisine";
 import Lodging from "./Lodging";
 import Activities from "./Activities";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
