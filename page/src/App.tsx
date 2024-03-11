@@ -12,8 +12,9 @@ function App() {
   return(
     <Router>
       <Navigation/>
+      <Home/>
       <Routes>
-          <Route path="/home" element={<Home/>}/>
+          <Route path="/" element={<Home/>}/>
           <Route path="/Hotspots" element={<Hotspots/>}/>
           <Route path="/Cuisine" element={<Cuisine/>}/>
           <Route path="/Lodging" element={<Lodging/>}/>
