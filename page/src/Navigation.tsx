@@ -10,10 +10,10 @@ function Navigation(){
         <Container>
           <Navbar.Brand as={Link} to="/"><img src={ico} style={{width:"50px", height:"50px"}} /></Navbar.Brand>
           <Nav className="justify-content-center">
-            <Nav.Link  as={Link} to="/Hotspots" className="me-3 lead text-decoration-none">Hotspots</Nav.Link>
-            <Nav.Link as={Link} to="/Cuisine" className="me-3 lead text-decoration-none">Cuisine</Nav.Link>
-            <Nav.Link as={Link} to="/Lodging" className="me-3 lead text-decoration-none">Lodging</Nav.Link>
-            <Nav.Link as={Link} to="/Activities" className="me-3 lead text-decoration-none">Activities</Nav.Link>
+          <Link to="/Hotspots"  className='me-3 lead text-decoration-none'>Hotspots</Link>
+            <Link to="/Cuisine"   className='me-3 lead text-decoration-none'>Cuisine</Link>
+            <Link to="/Lodging" className='me-3 lead text-decoration-none'>Lodging</Link>
+            <Link to="/Activities"  className='me-3 lead text-decoration-none'>Activities</Link>
           </Nav>
         </Container>
       </Navbar>
