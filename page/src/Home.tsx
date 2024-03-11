@@ -18,7 +18,7 @@ function Home(){
     
             <Carousel className=" my-4" fade>
                 <Carousel.Item interval={1500}>
-                    <img src={c1} className="d-block w-100 rounded"/>
+                    <img src={c1} className="d-block w-100 rounded" />
                     
                 </Carousel.Item>
                 <Carousel.Item interval={1500}>
