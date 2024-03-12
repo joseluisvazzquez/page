@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/page-react/static/css/main.0d713fa8.css",
-    "main.js": "/page-react/static/js/main.44b384c0.js",
+    "main.js": "/page-react/static/js/main.dd42da94.js",
     "static/js/453.2a0906f0.chunk.js": "/page-react/static/js/453.2a0906f0.chunk.js",
     "static/media/c3.png": "/page-react/static/media/c3.9bc24e09ba273b550fef.png",
     "static/media/c2.png": "/page-react/static/media/c2.ba65f4cfab7127879526.png",
@@ -10,16 +10,20 @@
     "static/media/funa.png": "/page-react/static/media/funa.015f31fc0fe5105151b8.png",
     "static/media/meiji.jpg": "/page-react/static/media/meiji.23ac58abcddc734f5c98.jpg",
     "static/media/shin.png": "/page-react/static/media/shin.529d2e5e5890e2d07a32.png",
+    "static/media/apa.png": "/page-react/static/media/apa.f9771f5dec5e3162aa07.png",
+    "static/media/shinju.png": "/page-react/static/media/shinju.6701a6fa7bacb8810788.png",
     "static/media/homura.png": "/page-react/static/media/homura.45bd1a0d9f6c4a60bc1b.png",
+    "static/media/glo.png": "/page-react/static/media/glo.26dc812662ba7ac8457d.png",
     "static/media/taka.png": "/page-react/static/media/taka.b3c2c0741f2b8b032582.png",
+    "static/media/9h.png": "/page-react/static/media/9h.6cb8f12be8ddb00148f3.png",
     "static/media/c1.jpg": "/page-react/static/media/c1.d532fa82abcf2f2ee5df.jpg",
     "index.html": "/page-react/index.html",
     "main.0d713fa8.css.map": "/page-react/static/css/main.0d713fa8.css.map",
-    "main.44b384c0.js.map": "/page-react/static/js/main.44b384c0.js.map",
+    "main.dd42da94.js.map": "/page-react/static/js/main.dd42da94.js.map",
     "453.2a0906f0.chunk.js.map": "/page-react/static/js/453.2a0906f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d713fa8.css",
-    "static/js/main.44b384c0.js"
+    "static/js/main.dd42da94.js"
   ]
 }
