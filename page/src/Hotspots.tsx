@@ -1,6 +1,6 @@
-import shibuya from "./shibuya.jpg";
-import nezu from "./nezu.png";
-import meiji from "./meiji.jpg";
+import shibuya from "./img_page/shibuya.jpg";
+import nezu from "./img_page/nezu.png";
+import meiji from "./img_page/meiji.jpg";
 function Hotspots(){
     return(
         <>

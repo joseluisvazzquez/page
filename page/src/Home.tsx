@@ -1,7 +1,7 @@
 import React from "react";
-import c1 from "./c1.jpg"
-import c2 from "./c2.png"
-import c3 from "./c3.png"
+import c1 from "./img_page/c1.jpg"
+import c2 from "./img_page/c2.png"
+import c3 from "./img_page/c3.png"
 import { Carousel } from "react-bootstrap";
 function Home(){
     return(
